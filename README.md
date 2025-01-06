@@ -33,7 +33,7 @@ The following table lists the `BRANCH` names for kernels available through this 
 Then build the kernel with:
 
 ```bash
-build/build.sh
+export SKIP_EXT_MODULES=true && bash ./build_alioth.sh
 ```
 
 The kernel binary, modules, and corresponding image are located in the `out/BRANCH/dist` directory.
