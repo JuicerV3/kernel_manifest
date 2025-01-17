@@ -5,7 +5,7 @@
             fetch="https://android.googlesource.com/"
             revision="refs/tags/android-u-qpr1-beta-1_r0.6" />
     <remote name="hentai"
-            fetch="ssh://git@github.com/JuicerV3/"
+            fetch="https://github.com/JuicerV3/"
             revision="refs/heads/Ursamoon" />
     <remote name="codelinaro"
             fetch="https://git.codelinaro.org/clo/la/" />
