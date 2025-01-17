@@ -6,7 +6,7 @@
             revision="refs/tags/android-u-qpr1-beta-1_r0.6" />
     <remote name="hentai"
             fetch="https://github.com/JuicerV3/"
-            revision="refs/heads/Ursamoon-KSU-Next-stable" />
+            revision="refs/heads/Ursamoon-KSU-Next-susfs" />
     <remote name="codelinaro"
             fetch="https://git.codelinaro.org/clo/la/" />
     <default sync-j="4" />
