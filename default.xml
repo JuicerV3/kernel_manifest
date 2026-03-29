@@ -3,10 +3,10 @@
 
     <remote name="aosp"
             fetch="https://android.googlesource.com/"
-            revision="refs/tags/android-u-qpr1-beta-1_r0.6" />
+            revision="refs/tags/android-15.0.0_r2" />
     <remote name="hentai"
             fetch="https://github.com/JuicerV3/"
-            revision="refs/heads/Ursamoon" />
+            revision="refs/heads/Vallhound" />
     <remote name="codelinaro"
             fetch="https://git.codelinaro.org/clo/la/" />
     <default sync-j="4" />
